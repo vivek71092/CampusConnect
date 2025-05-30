@@ -88,12 +88,6 @@ We welcome contributions to CampusConnect! If you have suggestions for improveme
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
-Vivek Kumar - vivek.kumar@example.com (Feel free to replace this with your actual university email or a dedicated project contact email if you're comfortable.)
+Vivek Kumar - vivek71092@gmail.com
