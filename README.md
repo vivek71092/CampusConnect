@@ -208,70 +208,70 @@ Here are some visual representations of the CampusConnect system, showcasing key
     ![CampusConnect About Us Page](Screenshots/02-about-min.png)
 
 * **Our Courses Page**: Displays a list of available courses with brief descriptions, allowing prospective students to explore academic offerings.
-    ![CampusConnect Our Courses Page](Screenshots/Courses.png)
+    ![CampusConnect Our Courses Page](Screenshots/03-courses-min.png)
 
 * **Contact Us Page**: Facilitates communication with the university, providing contact details and a message submission form.
-    ![CampusConnect Contact Us Page](Screenshots/Contact.png)
+    ![CampusConnect Contact Us Page](Screenshots/04-contact-min.png)
 
 * **Notice Board**: Displays public announcements and news from the university for all visitors.
-    ![CampusConnect Notice Board](Screenshots/Notice.png)
+    ![CampusConnect Notice Board](Screenshots/05-public-notice-min.png)
 
 ### User & Admin Authentication
 
 * **Admin Login**: The dedicated login interface for college administrators to access the management dashboard.
-    ![CampusConnect Admin Login Page](Screenshots/Admin-Login.png)
+    ![CampusConnect Admin Login Page](Screenshots/06-admin-login-min.png)
 
 * **User Login**: The login interface for prospective students to access their personalized application dashboard.
-    ![CampusConnect User Login Page](Screenshots/User-Login.png)
+    ![CampusConnect User Login Page](Screenshots/08-user-login-min.png)
 
 ### Student Dashboard & Application Process
 
 * **User Dashboard**: The student's central hub, showing immediate application status updates.
-    ![CampusConnect User Dashboard](Screenshots/User-Dashboard.png)
+    ![CampusConnect User Dashboard](Screenshots/09-user-dashboard-min.png)
 
 * **User Admission Form View**: A snapshot of the submitted admission form, displaying all entered details and uploaded documents.
-    ![CampusConnect User Admission Form](Screenshots/User-Admission-Form.png)
+    ![CampusConnect User Admission Form](Screenshots/10-admisson-form-min.png)
 
 * **Admission Fees (Pending)**: Shows the status when admission fees are pending, indicating that payment is required.
-    ![CampusConnect Admission Fees Pending](Screenshots/Submit-Fee.png)
+    ![CampusConnect Admission Fees Pending](Screenshots/11-submiit-fee-min.png)
 
 * **Admission Fees (Payment Details)**: Provides details for fee submission, potentially including bank information or QR codes for payment.
-    ![CampusConnect Admission Fees Payment Details](Screenshots/Payments.png)
+    ![CampusConnect Admission Fees Payment Details](Screenshots/12-payment-min.png)
 
 ### Administrator Management Interfaces
 
 * **Admin Dashboard**: The primary overview for administrators, summarizing key application statistics and system health.
-    ![CampusConnect Admin Dashboard](Screenshots/Admin-Dashboard.png)
+    ![CampusConnect Admin Dashboard](Screenshots/07-admin-dashboard-min.png)
 
 * **Manage Courses**: Interface for administrators to add, edit, or remove course offerings.
-    ![CampusConnect Admin Manage Courses](Screenshots/Manage-Courses.png)
+    ![CampusConnect Admin Manage Courses](Screenshots/13-manage-courses-min.png)
 
 * **Registered Users**: List of all registered student accounts managed by the administrators.
-    ![CampusConnect Admin Registered Users](Screenshots/Registered-Users.png)
+    ![CampusConnect Admin Registered Users](Screenshots/14-registered-users-min.png)
 
 * **Admission Applications Overview**: A comprehensive list of all submitted applications for administrative review.
-    ![CampusConnect Admin Admission Applications](Screenshots/Admission-Applications.png)
+    ![CampusConnect Admin Admission Applications](Screenshots/15-view-applications-min.png)
 
 * **Search Application**: Tool for administrators to efficiently search for specific applications by various criteria.
-    ![CampusConnect Admin Search Application](Screenshots/Search-Application.png)
+    ![CampusConnect Admin Search Application](Screenshots/16-search-application-min.png)
 
 * **Add Public Notice**: Form for administrators to create and publish new announcements on the public notice board.
-    ![CampusConnect Admin Add Public Notice](Screenshots/Add-Public-Notice.png)
+    ![CampusConnect Admin Add Public Notice](Screenshots/17-add-notice-min.png)
 
 * **Manage Public Notice**: Interface for administrators to view, edit, or delete existing public notices.
-    ![CampusConnect Admin Manage Public Notice](Screenshots/Manage-Public-Notice.png)
+    ![CampusConnect Admin Manage Public Notice](Screenshots/18-manage-notice-min.png)
 
 * **Unread Enquiry**: Section for administrators to view new inquiries from the contact form that have not yet been read.
-    ![CampusConnect Admin Unread Enquiry](Screenshots/Unread-Enquiry.png)
+    ![CampusConnect Admin Unread Enquiry](Screenshots/19-enquiry-min.png)
 
 * **Read Enquiry**: Section displaying inquiries that administrators have already reviewed.
     ![CampusConnect Admin Read Enquiry](Screenshots/Read-Enquiry.png)
 
 * **Update About Us Page**: Interface for administrators to edit the content displayed on the "About Us" page.
-    ![CampusConnect Admin Update About Us](Screenshots/Update-About-Us-(Pages).png)
+    ![CampusConnect Admin Update About Us](Screenshots/20-update-about-us-min.png)
 
 * **Update Contact Us Page**: Interface for administrators to modify contact information and details displayed on the "Contact Us" page.
-    ![CampusConnect Admin Update Contact Us](Screenshots/Update-Contact-Us-(Pages).png)
+    ![CampusConnect Admin Update Contact Us](Screenshots/21-update-contact-us-min.png)
 
 * **Subscriber Email List**: Displays a list of email addresses of users who have subscribed to updates.
     ![CampusConnect Admin Subscriber Email List](Screenshots/Subscribers.png)
