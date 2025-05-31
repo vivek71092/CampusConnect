@@ -264,9 +264,6 @@ Here are some visual representations of the CampusConnect system, showcasing key
 * **Unread Enquiry**: Section for administrators to view new inquiries from the contact form that have not yet been read.
     ![CampusConnect Admin Unread Enquiry](Screenshots/19-enquiry-min.png)
 
-* **Read Enquiry**: Section displaying inquiries that administrators have already reviewed.
-    ![CampusConnect Admin Read Enquiry](Screenshots/Read-Enquiry.png)
-
 * **Update About Us Page**: Interface for administrators to edit the content displayed on the "About Us" page.
     ![CampusConnect Admin Update About Us](Screenshots/20-update-about-us-min.png)
 
@@ -277,7 +274,7 @@ Here are some visual representations of the CampusConnect system, showcasing key
     ![CampusConnect Admin Subscriber Email List](Screenshots/Subscribers.png)
 
 * **Reports (Date Selection)**: Interface for administrators to select date ranges for generating reports.
-    ![CampusConnect Admin Reports Date Selection](Screenshots/Reports.png)
+    ![CampusConnect Admin Reports Date Selection](Screenshots/Reports.png.png)
 
 * **Reports (Generated Details)**: Displays the results of generated reports, providing data summaries based on selected criteria.
     ![CampusConnect Admin Reports Generated Details](Screenshots/Reports2.png)
