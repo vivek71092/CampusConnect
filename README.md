@@ -202,10 +202,10 @@ Here are some visual representations of the CampusConnect system, showcasing key
 ### Main Public-Facing Pages
 
 * **Main Page**: The welcoming entry point of the CampusConnect website, showcasing the institution's motto and initial navigation options.
-    ![CampusConnect Main Page](Screenshots/Main-Page.png)
+    ![CampusConnect Main Page](Screenshots/01-main-page-min.png)
 
 * **About Us Page**: Provides information about the university, its mission, and the benefits of the admission system.
-    ![CampusConnect About Us Page](Screenshots/About.png)
+    ![CampusConnect About Us Page](Screenshots/02-about-min.png)
 
 * **Our Courses Page**: Displays a list of available courses with brief descriptions, allowing prospective students to explore academic offerings.
     ![CampusConnect Our Courses Page](Screenshots/Courses.png)
